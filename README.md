@@ -10,7 +10,7 @@ Pequeno projeto em Python que:
 - Solicita dois números e calcula a soma.
 - Demonstra lógica básica e interatividade via terminal.
 
-### 2. [Página HTML Simples](https:github.com/renatocom33)
+### 2. [Página HTML Simples](index)
 Projeto de uma página web básica que:
 - Exibe título, parágrafo e botão interativo.
 - Estilização simples com CSS.
