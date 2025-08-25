@@ -4,13 +4,13 @@ Bem-vindo ao meu portfólio no GitHub! Aqui compartilho projetos de estudo e pr�
 
 ## 📂 Projetos em destaque
 
-### 1. [Hello World em Python](https://github.com/SEUUSUARIO/hello-world-python)
+### 1. [Hello World em Python](https://github.com/renatocom33/portfolio/blob/main/main.py)
 Pequeno projeto em Python que:
 - Dá boas-vindas ao usuário.
 - Solicita dois números e calcula a soma.
 - Demonstra lógica básica e interatividade via terminal.
 
-### 2. [Página HTML Simples](index)
+### 2. [Página HTML Simples](https://github.com/renatocom33/portfolio/blob/main/index.html)
 Projeto de uma página web básica que:
 - Exibe título, parágrafo e botão interativo.
 - Estilização simples com CSS.
