@@ -1,0 +1,13 @@
+# main.py
+def saudacao():
+    nome = input("Digite seu nome: ")
+    print(f"Olá, {nome}! Bem-vindo ao meu primeiro projeto Python.")
+
+def soma():
+    a = float(input("Digite o primeiro número: "))
+    b = float(input("Digite o segundo número: "))
+    print(f"A soma de {a} + {b} é {a + b}")
+
+if __name__ == "__main__":
+    saudacao()
+    soma()
